@@ -1,15 +1,27 @@
-# Getting Started with N11 bootcamp Graduation Project Frontend
+# N11 bootcamp Graduation Project Frontend
 
  [Backend](https://github.com/ismailkarakayax/n11-talenthub-graduation-project).
 
-## Available Scripts
+## Kurulum aşaması
 
-In the project directory, you can run:
 
-### `npm install`
+1. Proje dizinine gidin:
 
-### `npm run start`
+    ```bash
+    cd path/to/n11-talenthub-graduation-project-frontend
+    ```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Aşağıdaki komutları çalıştırın:
+
+    ```bash
+    npm install
+    ```
+    ```bash
+    npm run start
+    ```
+
+3. Aşağıdaki bağlantıya tıklayın:
+
+    [http://localhost:3000](http://localhost:3000)
+
 
